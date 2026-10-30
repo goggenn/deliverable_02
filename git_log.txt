@@ -1,0 +1,31 @@
+* 48e8e58 - Georg R. Hagen, 20 hours ago : la til import json
+* 8b4e4c4 - Georg R. Hagen, 20 hours ago : pynt
+* afcbd94 - Georg R. Hagen, 20 hours ago : La til hele task 5 som vi jobbet med
+* f1ac77e - Georg R. Hagen, 20 hours ago : småting
+* 8fd905c - Magnus Bigum, 20 hours ago : fikse 3.2
+* 4209760 - Georg R. Hagen, 20 hours ago : ?
+*   2b3cb1b - goggenn, 3 days ago : Merge pull request #4 from goggenn/magnubranch2
+|\  
+| * 19fd062 - Magnus Bigum, 3 days ago : gjorde task 3.2
+| * 7a3d7fb - Magnus Bigum, 3 days ago : gjorde 3.1
+* |   06ad7e7 - goggenn, 3 days ago : Merge pull request #3 from goggenn/g_branch
+|\ \  
+| * | ab52f17 - Georg R. Hagen, 3 days ago : Begynt på oppgave 4 og fjerne litt ellers
+* | | 9768092 - goggenn, 3 days ago : Merge pull request #2 from goggenn/g_branch
+|\| | 
+| |/  
+|/|   
+| * bf4cb4f - Georg R. Hagen, 3 days ago : Kjørt tester og fjerna tester
+|/  
+* 969a7bf - Magnus Bigum, 3 days ago : gjorde task 1.2
+* 784181c - Georg R. Hagen, 3 days ago : Task2
+*   2fdb91d - goggenn, 3 days ago : Merge pull request #1 from goggenn/g_branch
+|\  
+| * fd17854 - Georg R. Hagen, 3 days ago : Gjort oppgave 1.1
+|/  
+* da8320d - Georg R. Hagen, 3 days ago : Fiksa kompatibilitet med linux og windows til datasett
+* 278ac62 - Georg R. Hagen, 3 days ago : Lastet ned datasett
+* ccbdeab - Georg R. Hagen, 3 days ago : Gjort klar oppgave skriving
+* 9e2aee2 - Georg R. Hagen, 3 days ago : ...
+* df2ebc9 - Georg R. Hagen, 3 days ago : Lagde jupyter fil
+* 1f2a19f - goggenn, 3 days ago : Initial commit
